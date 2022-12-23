@@ -121,7 +121,7 @@
 
 **这是我们在 Mitnick Security 的风险评级系统的一个例子:**
 
-**![Mitnick_PenetrationTesting-Infographic_technical-vulnerabilities-example](img/79a655a0e1c9b2fc3c4bfae2d8227728.png)T2】**
+**![Mitnick_PenetrationTesting-Infographic_technical-vulnerabilities-example](img/79a655a0e1c9b2fc3c4bfae2d8227728.png)**
 
 #### 补救措施图表示例
 

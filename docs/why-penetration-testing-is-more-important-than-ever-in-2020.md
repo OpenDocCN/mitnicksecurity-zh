@@ -48,6 +48,6 @@ pentester 可以帮助您创建一个按优先顺序排列的低、中、严重�
 
 随着越来越多的员工远程工作以及在线销售和服务的增加，现在是进行渗透测试的最佳时机。
 
-[![](img/06b9b4f99662ffe62a5d9d6e6625da92.png)T2】](https://mitnicksecurity.wistia.com/medias/nimvad5otb?wvideo=nimvad5otb)
+[![](img/06b9b4f99662ffe62a5d9d6e6625da92.png)](https://mitnicksecurity.wistia.com/medias/nimvad5otb?wvideo=nimvad5otb)
 
 通过[探索我们的 pentesting 服务，了解为什么曾经被称为“世界上最著名的黑客”的凯文·米特尼克和他的全球 Ghost 团队被认为是 Pentesting 行业中最好的团队之一。](https://www.mitnicksecurity.com/penetration-testing)

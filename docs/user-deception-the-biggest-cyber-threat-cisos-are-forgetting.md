@@ -47,7 +47,7 @@
 
 ## 最近的企业社会工程攻击
 
-![User Deception: The Biggest Cyber Threat CISOs are Forgetting - people connected](img/c835f7506b5a37204c332a7cea20bc84.png)T2】
+![User Deception: The Biggest Cyber Threat CISOs are Forgetting - people connected](img/c835f7506b5a37204c332a7cea20bc84.png)
 
 不要认为它会发生在你身上？著名的商业专家和《鲨鱼池》的主持人芭芭拉·科克兰可能也有同感。也就是说，直到今年早些时候她陷入了一个网络钓鱼骗局 [，花了她 38 万美元](https://www.forbes.com/sites/rachelsandler/2020/02/27/shark-tank-host-barbara-corcoran-loses-380000-in-email-scam/#1d27351b511a) 。
 

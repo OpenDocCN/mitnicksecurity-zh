@@ -22,7 +22,7 @@
 
 ## 2。选择合适的扬声器
 
-![Kevin Mitnick speaking - 4 Ways to Combine Education & Entertainment at Your Next Corporate Event](img/a2151d19b301e53e0b07e6a9fb2ccd39.png)T2】
+![Kevin Mitnick speaking - 4 Ways to Combine Education & Entertainment at Your Next Corporate Event](img/a2151d19b301e53e0b07e6a9fb2ccd39.png)
 
 为你的听众选择合适的演讲者可以决定你公司的成败。许多组织选择内部演讲者的路线，但带来一个“特殊的客人”更有可能抓住你的观众的注意力。著名的行业专家为任何教育聚会提供价值，同时保持它的刺激性和娱乐性。
 

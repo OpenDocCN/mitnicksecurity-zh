@@ -18,7 +18,7 @@
 
 Garmin 没有明确表示问题是由网络攻击引起的，而是发布了以下声明，根据 TechCrunch 的[](https://techcrunch.com/2020/07/25/garmin-outage-ransomware-sources/?guccounter=1):
 
-![](img/a84c1ce0c65654d22061e5cb391ee473.png)T2】
+![](img/a84c1ce0c65654d22061e5cb391ee473.png)
 
 几天后，Garmin 宣布它是“加密我们一些系统的网络攻击的受害者”，据 BBC 报道 [。](https://www.bbc.com/news/technology-53553576)
 

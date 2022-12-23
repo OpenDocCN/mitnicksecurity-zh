@@ -38,7 +38,7 @@
 
 **这就是为什么 Mitnick Security 的每一份社会工程强度测试报告都包含每个攻击媒介的叙述*和*根据关键程度减轻您的漏洞的详细建议。**虽然其他社会工程测试也可能包括提高您安全性的建议，但我们的团队更进一步，帮助您了解*为什么，*不用技术术语。如果没有适当的背景来说明我们究竟是如何欺骗你的员工并进入你的系统的，这些建议通常会被置若罔闻。
 
-[![Mitnick_PenetrationTesting-Infographic_remedial-actions-chart-example](img/0229f835a04563528ab72c6a1f8845ef.png)T2】](https://www.mitnicksecurity.com/blog/the-anatomy-of-a-penetration-testing-report-an-infographic)
+[![Mitnick_PenetrationTesting-Infographic_remedial-actions-chart-example](img/0229f835a04563528ab72c6a1f8845ef.png)](https://www.mitnicksecurity.com/blog/the-anatomy-of-a-penetration-testing-report-an-infographic)
 
 点击此处阅读更多关于我们的 pentesting 和社会工程测试报告的内容。T3】
 

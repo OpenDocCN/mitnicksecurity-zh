@@ -44,7 +44,7 @@
 
 MITNICK 的不同之处:在 Mitnick Security，我们不喜欢限制我们的演示。虽然我们绝对优先考虑质量而不是数量，但我们可以自豪地说，我们拥有深厚的技能和专业知识网络，可以谈论从业务或技术到信息安全的广泛话题。 [在这里探索我们的一些流行主题演讲](/speaking-topics) ，但请记住，我们也愿意为您的公司提供专属的个性化体验。
 
-[![mitnick topics](img/0ff5d82c748efb4ca166a2b3c5171aab.png)T2】](https://www.mitnicksecurity.com/speaking-topics)
+[![mitnick topics](img/0ff5d82c748efb4ca166a2b3c5171aab.png)](https://www.mitnicksecurity.com/speaking-topics)
 
 ## 5.交互性
 

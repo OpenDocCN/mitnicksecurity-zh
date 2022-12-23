@@ -18,7 +18,7 @@
 
 主席团网站通常根据不同的主题对发言人进行分组，按照他们擅长的主题进行组织，以便像您这样的活动策划人可以在一个方便的地方轻松查看受欢迎的选择。
 
-[![how-to-find-cybersecurity-speakers-for-your-digital-event-kevin-mitnick-big-speak](img/caa88ff62d33d843138e20e9a1af0187.png)T2】](https://www.bigspeak.com/speakers/kevin-mitnick/)
+[![how-to-find-cybersecurity-speakers-for-your-digital-event-kevin-mitnick-big-speak](img/caa88ff62d33d843138e20e9a1af0187.png)](https://www.bigspeak.com/speakers/kevin-mitnick/)
 
 虽然有几十个发言人办公室可供细读，但对于网络安全发言人来说，**这里有几个著名的中心可供选择:**
 
